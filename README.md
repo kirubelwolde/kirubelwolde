@@ -2,7 +2,7 @@
 
 
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.s 
+I am aait  gc student in software engineering   with a passion for building innovative and user-friendly software. Proven ability to learn new technologies quickly and apply them to real-world problems. Strong problem-solving and analytical skills. Seeking an internship or entry-level position in software engineering. i have working with mern app
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
